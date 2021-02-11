@@ -3,4 +3,4 @@
 - Skating
 - Music 
 - programming
-- :earth_asia: Traveling
+- Traveling
