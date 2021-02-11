@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# My favourite Things are
+- Surfing
+- Skating
+- Music 
+- programming
+- :earth_asia: Traveling
